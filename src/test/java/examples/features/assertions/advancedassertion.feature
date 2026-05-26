@@ -6,6 +6,7 @@ Background:
 
 Scenario: Advanced Validation
 
+    
 Given path 'api/users/2'
 
 When method GET
